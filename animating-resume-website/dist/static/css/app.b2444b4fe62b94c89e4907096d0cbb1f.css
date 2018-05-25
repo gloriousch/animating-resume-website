@@ -1,0 +1,43 @@
+
+#app[data-v-77c33ac2] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-77c33ac2] {
+  min-height: 100vh;
+}
+*[data-v-77c33ac2]{
+  box-sizing: border-box;
+}
+
+pre[data-v-191cde92]{
+}
+@media (max-width:500px){
+pre[data-v-191cde92]{
+}
+}
+.code[data-v-191cde92] {
+  display: none;
+}
+
+@media (max-width:500px){
+.resumeEditor[data-v-5cf5cf11]{
+}
+}
+.htmlMode[data-v-5cf5cf11] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+/*# sourceMappingURL=app.b2444b4fe62b94c89e4907096d0cbb1f.css.map*/
